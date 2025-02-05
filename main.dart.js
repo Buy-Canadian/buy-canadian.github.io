@@ -45005,7 +45005,7 @@ s=t.E
 q=A.a([],s)
 p=r.h(0,d)
 if(B.d.q(J.cc(p==null?"":p).toUpperCase(),"CANADA"))q.push(new A.A4(new A.Is("assets/canada_flag.json",e,e,e,e,!1),e,e,e,e,!0,e,e,e,e,200,150,B.Et,e,e,e,e,e,e,e))
-p=A.iq("Product Details:",e,e,e,B.YF,e,e)
+p=A.iq(f.z?"Add New Product to Database":"Product Details:",e,e,e,B.YF,e,e)
 o=r.h(0,c)
 o=f.rO("Product Name",c,o==null?"":o)
 n=r.h(0,"brands")
